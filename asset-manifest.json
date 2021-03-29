@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/http//Ajhar17103.gitgub.io/Reactjs-Advance-Module-With-Top-News-Headline/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/http//Ajhar17103.gitgub.io/Reactjs-Advance-Module-With-Top-News-Headline/static/js/main.499e1f68.chunk.js",
+    "main.js.map": "/http//Ajhar17103.gitgub.io/Reactjs-Advance-Module-With-Top-News-Headline/static/js/main.499e1f68.chunk.js.map",
+    "runtime-main.js": "/http//Ajhar17103.gitgub.io/Reactjs-Advance-Module-With-Top-News-Headline/static/js/runtime-main.56ad7a2e.js",
+    "runtime-main.js.map": "/http//Ajhar17103.gitgub.io/Reactjs-Advance-Module-With-Top-News-Headline/static/js/runtime-main.56ad7a2e.js.map",
+    "static/css/2.81057f45.chunk.css": "/http//Ajhar17103.gitgub.io/Reactjs-Advance-Module-With-Top-News-Headline/static/css/2.81057f45.chunk.css",
+    "static/js/2.931ae8d9.chunk.js": "/http//Ajhar17103.gitgub.io/Reactjs-Advance-Module-With-Top-News-Headline/static/js/2.931ae8d9.chunk.js",
+    "static/js/2.931ae8d9.chunk.js.map": "/http//Ajhar17103.gitgub.io/Reactjs-Advance-Module-With-Top-News-Headline/static/js/2.931ae8d9.chunk.js.map",
+    "static/js/3.1cda2efd.chunk.js": "/http//Ajhar17103.gitgub.io/Reactjs-Advance-Module-With-Top-News-Headline/static/js/3.1cda2efd.chunk.js",
+    "static/js/3.1cda2efd.chunk.js.map": "/http//Ajhar17103.gitgub.io/Reactjs-Advance-Module-With-Top-News-Headline/static/js/3.1cda2efd.chunk.js.map",
+    "index.html": "/http//Ajhar17103.gitgub.io/Reactjs-Advance-Module-With-Top-News-Headline/index.html",
+    "static/css/2.81057f45.chunk.css.map": "/http//Ajhar17103.gitgub.io/Reactjs-Advance-Module-With-Top-News-Headline/static/css/2.81057f45.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/http//Ajhar17103.gitgub.io/Reactjs-Advance-Module-With-Top-News-Headline/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.931ae8d9.chunk.js.LICENSE.txt": "/http//Ajhar17103.gitgub.io/Reactjs-Advance-Module-With-Top-News-Headline/static/js/2.931ae8d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56ad7a2e.js",
+    "static/css/2.81057f45.chunk.css",
+    "static/js/2.931ae8d9.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.499e1f68.chunk.js"
+  ]
+}
